@@ -3,10 +3,10 @@ html {
 }
 
 body {
-    margin: 1 auto;
+    /* margin: 0 auto; */
     /* width: 100%; */
     max-width: 50ch;
-    padding: 1rem;
+    padding: 2rem;
     /* line-height: 1.6; */
     /* font-size: 12px */
 }
