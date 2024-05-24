@@ -3,9 +3,9 @@ html {
 }
 
 body {
-    /* margin: 0 auto; */
+    margin: 1 auto;
     /* width: 100%; */
-    max-width: 80ch;
+    max-width: 50ch;
     padding: 1rem;
     /* line-height: 1.6; */
     /* font-size: 12px */
