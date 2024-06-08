@@ -29,6 +29,10 @@ a {
     cursor: alias;
 }
 
+.hoverText {
+    cursor: pointer;
+}
+
 .hoverText>div {
     display: none;
 }
