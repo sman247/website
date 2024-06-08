@@ -30,7 +30,7 @@ a {
 }
 
 .hoverText {
-    cursor: pointer;
+    cursor: default;
 }
 
 .hoverText>div {
