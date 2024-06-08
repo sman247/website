@@ -11,7 +11,7 @@ sean.e.mansfield@gmail.com
     Hover me
     <div>
         <img
-            src="/picture-a-captivating-scene-of-a-tranquil-lake-at-sunset-ai-generative-photo.jpeg" 
+            src="/Pale B-G_STRIPES.png" 
             height="400px"
         />
     </div>
