@@ -7,11 +7,11 @@ Architectural Designer
 
 Currently: Architectural Assistant ([William Smalley RIBA](https://williamsmalley.com)); Freelance Designer ([Studio 1009](https://www.10-09.com))
 
-Recently: Architecture (MA) ([RCA (2023)](https://2023.rca.ac.uk/students/sean-mansfield/))
+Recently: [MA Architecture RCA (2023)](https://2023.rca.ac.uk/students/sean-mansfield/)
 
 sean.e.mansfield@gmail.com 
 
-<a class="hoverText"> 
+<!-- <a class="hoverText"> 
 <p>Hover</p>
     <div>
         <img

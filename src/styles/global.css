@@ -5,7 +5,7 @@ html {
 body {
     /* margin: 0 auto; */
     /* width: 100%; */
-    max-width: 50ch;
+    max-width: 60ch;
     padding: 2rem;
     /* line-height: 1.6; */
     /* font-size: 12px */
@@ -27,9 +27,13 @@ p {
 a {
     color: inherit;
     cursor: alias;
+    font-weight:normal;
+    font-size: 18px;
 }
 
 .hoverText {
+    font-weight:normal;
+    font-size: 18px;
     cursor: default;
 }
 
