@@ -3,16 +3,20 @@ layout: ../layouts/BaseLayout.astro
 ---
 Sean Mansfield
 
-I am a designer based in London. I recently graduated from the RCA (2023) with an MA in Architecture. 
+Architectural Designer
 
-sean.e.mansfield@gmail.com
+Currently: Architectural Assistant ([William Smalley RIBA](https://williamsmalley.com)); Freelance Designer ([Studio 1009](https://www.10-09.com))
 
-<a class="hoverText">
-    Hover me
+Recently: Architecture (MA) ([RCA (2023)](https://2023.rca.ac.uk/students/sean-mansfield/))
+
+sean.e.mansfield@gmail.com 
+
+<a class="hoverText"> 
+<p>Hover</p>
     <div>
         <img
-            src="/Pale B-G_STRIPES.png" 
-            height="400px"
+            src="/sashwindows.jpeg" 
+            height="300px"
         />
     </div>
-</a>
+</a> 
