@@ -10,5 +10,3 @@ Currently: Architectural Assistant ([William Smalley RIBA](https://williamsmalle
 Recently: Talia Byre SS24 pop-up; [MA Architecture RCA (2023)](https://2023.rca.ac.uk/students/sean-mansfield/)
 
 sean.e.mansfield@gmail.com 
-
-test
