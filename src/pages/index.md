@@ -11,6 +11,8 @@ Recently: Talia Byre SS24 pop-up; [MA Architecture RCA (2023)](https://2023.rca.
 
 sean.e.mansfield@gmail.com 
 
+hello **<span class="hover-text" data-img="/Pale B-G_STRIPES.png">this text</span>** ...
+
 <!-- <a class="hoverText"> 
 <p>Hover</p>
     <div>

@@ -49,3 +49,27 @@ a {
     transform: translate(-50%, -50%);
     z-index: -1;
 }
+
+.hover-text {
+    position: relative;
+    cursor: pointer;
+  }
+  
+  .hover-text::after {
+    content: "";
+    position: absolute;
+    left: 50%;
+    top: 120%;
+    width: 200px;
+    height: 150px;
+    background-size: cover;
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+    transform: translateX(-50%);
+  }
+  
+  .hover-text:hover::after {
+    opacity: 1;
+    background-image: attr(data-img url);
+  }
+  
