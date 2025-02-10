@@ -11,7 +11,11 @@ Recently: Talia Byre SS24 pop-up; [MA Architecture RCA (2023)](https://2023.rca.
 
 sean.e.mansfield@gmail.com 
 
-hello **<span class="hover-text" data-img="/Pale B-G_STRIPES.png">this text</span>** ...
+This is some text, and when you hover over 
+<span class="hover-text">this text 
+  <img src="/IMG_0725.jpeg" alt="Preview Image" class="hover-image" />
+</span>, an image appears.
+
 
 <!-- <a class="hoverText"> 
 <p>Hover</p>

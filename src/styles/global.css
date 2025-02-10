@@ -31,45 +31,29 @@ a {
     font-size: 18px;
 }
 
-.hoverText {
-    font-weight:normal;
-    font-size: 18px;
-    cursor: default;
-}
-
-.hoverText>div {
-    display: none;
-}
-
-.hoverText:hover>div {
-    display: block;
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    z-index: -1;
-}
-
 .hover-text {
     position: relative;
     cursor: pointer;
+    display: inline-block;
   }
   
-  .hover-text::after {
-    content: "";
+  .hover-text .hover-image {
     position: absolute;
     left: 50%;
     top: 120%;
     width: 200px;
-    height: 150px;
-    background-size: cover;
+    height: auto;
     opacity: 0;
     transition: opacity 0.3s ease-in-out;
     transform: translateX(-50%);
+    pointer-events: none;
+    z-index: 10;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
   }
   
-  .hover-text:hover::after {
+  .hover-text:hover .hover-image {
     opacity: 1;
-    background-image: attr(data-img url);
   }
   
