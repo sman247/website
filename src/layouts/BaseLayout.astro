@@ -11,11 +11,15 @@ import "../styles/global.css";
 		<meta charset="utf-8" />
 		<link rel="icon" type="image/svg+xml" href="/Pale B-G_STRIPES.png" />
 		<meta name="viewport" content="width=device-width" />
+		<link rel="stylesheet" href="/styles/hover-image.css">
 		<meta name="generator" content={Astro.generator} />
 		<title>Sean Mansfield</title>
 	</head>
 	<body>
+		<div id="image-hover-container">
+			<img id="hover-image-preview" src="" alt="Project Preview">
 		<!-- <Header title={frontmatter.title} /> -->
         <slot />
+		<script src="/scripts/hover-image.js"></script>
 	</body>
 </html>
