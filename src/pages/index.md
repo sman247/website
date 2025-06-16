@@ -11,4 +11,3 @@ Recently: <span class="project-link" data-image="/images/talia-byre-ss24-preview
 
 sean.e.mansfield@gmail.com 
 
-test
