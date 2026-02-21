@@ -28,3 +28,25 @@ a {
     color: inherit;
     cursor: alias;
 }
+
+.hover-image {
+  position: relative;
+  display: inline;
+}
+
+.hover-image img {
+  display: none;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  max-width: 600px;
+  max-height: 80vh;
+  object-fit: contain;
+  z-index: -1;
+  pointer-events: none;
+}
+
+.hover-image:hover img {
+  display: block;
+}
