@@ -3,7 +3,7 @@ layout: ../layouts/BaseLayout.astro
 ---
 Sean Mansfield
 
-Architectural Designer
+Architect
 
 Currently: <span class="hover-image">Arch<img src="/smalley-1.jpg" alt="William Smalley" /></span><span class="hover-image">itect<img src="/smalley-2.jpg" alt="William Smalley" /></span><span class="hover-image">ural  <img src="/smalley-3.jpg" alt="William Smalley" /></span><span class="hover-image">Assi<img src="/smalley-4.jpg" alt="William Smalley" /></span><span class="hover-image">tant<img src="/smalley-5.jpg" alt="William Smalley" /></span> ([William Smalley RIBA](https://williamsmalley.com)); Freelance Designer ([Studio 1009](https://www.10-09.com))
 
